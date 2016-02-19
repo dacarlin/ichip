@@ -1,4 +1,6 @@
-# iChip 
+# iChip for *in situ* cultivation of "uncultivable" microbes
+
+![](http://aem.asm.org/content/76/8/2445/F4.large.jpg)
 
 See the paper ["Use of Ichip for High-Throughput In Situ Cultivation of “Uncultivable” Microbial Species"](http://aem.asm.org/content/76/8/2445.full) for some background. 
 
