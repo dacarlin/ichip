@@ -1,4 +1,4 @@
-# iChip for *in situ* cultivation of "uncultivable" microbes
+# iChip for cultivation of "uncultivable" microbes
 
 ![](http://aem.asm.org/content/76/8/2445/F4.large.jpg)
 
